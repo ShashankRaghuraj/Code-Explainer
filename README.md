@@ -34,7 +34,7 @@ Because learning how to code in Python shouldn't require an entire YouTube catal
    ```
 3. Make sure Ollama is running and you have the model:
    ```sh
-   ollama pull gemma:3b
+   ollama pull gemma3
    ollama serve
    ```
 4. Start the backend:
