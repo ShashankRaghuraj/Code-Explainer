@@ -1,6 +1,10 @@
 # Code Explainer
 
-A beautiful React app with a Python FastAPI backend that lets you write code, highlight to explain, or run code. Uses Ollama Gemma3 for code explanations.
+A React app with a Python FastAPI backend that lets you write code, highlight to explain, or run code. Uses Ollama Gemma3 for code explanations.
+
+Because learning how to code in Python shouldn't require an entire YouTube catalog. This project was inspired by scratch programming, the way I learnt how to code :)
+
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/c9e93679-1921-468a-8d0c-eb447f2b9c44" />
 
 ## Features
 - Write code in a modern editor
